@@ -55,7 +55,7 @@ Selamat datang di repository **Weather App**! 🌤️ Proyek ini adalah aplikasi
 ## Screenshot 📸
 
 ### Tampilan Cuaca Terkini ☀️🌧️
-![Cuaca Terkini](<img src="screenshoot.png">)
+![Cuaca Terkini](<img src="screenshot.png">)
 
 ### Tampilan Ramalan Cuaca 📅
 ![Ramalan Cuaca](https://via.placeholder.com/600x400?text=Tampilan+Ramalan+Cuaca)
