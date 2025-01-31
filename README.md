@@ -27,7 +27,7 @@ Selamat datang di repository **Weather App**! 🌤️ Proyek ini adalah aplikasi
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Synjoestar/weather-app.git
    ```
 2. Masuk ke direktori proyek:
    ```bash
